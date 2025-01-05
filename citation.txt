@@ -1,0 +1,11 @@
+@inproceedings{REPO028,
+    author = "Zhao, Yian and Lv, Wenyu and Xu, Shangliang and Wei, Jinman and Wang, Guanzhong and Dang, Qingqing and Liu, Yi and Chen, Jie",
+    booktitle = "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    doi = "10.1109/CVPR52733.2024.01605",
+    keywords = "YOLO;Computer vision;Accuracy;Graphics processing units;Detectors;Transformers;Real-time systems;Real-time Object Detection;YOLO;DETR",
+    number = "",
+    pages = "16965-16974",
+    title = "{DETRs Beat YOLOs on Real-time Object Detection}",
+    volume = "",
+    year = "2024"
+}
